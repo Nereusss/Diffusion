@@ -6,7 +6,6 @@ clear
 close all
 
 % SETTING CONSTANTS
-
 k = 1;      % DIFFUSIVITY
 dt = 0.00005; % TIME STEP
 dx = 0.01;   % SPACIAL STEP(IN THE CASE OF ONE DIMENSION)

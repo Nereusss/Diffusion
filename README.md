@@ -1,2 +1,2 @@
 # Diffusion
-A Diffusion Simulation on 1-D dimension
+A Diffusion Simulation in 1-D dimension

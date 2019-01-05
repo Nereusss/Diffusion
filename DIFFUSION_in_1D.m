@@ -21,7 +21,7 @@ U = zeros(M,N); % INITIALIZE ALL ZEROES FOR MATRIX
 % INITIALIZING CONDITIONS
 
 for k = 2:1:M-1
-    U(k,1) = 1+ cos(pi.*(k/M)); % GIVEN BY f(x)=1+cos(pi.*x)
+    U(k,1) = 1+ cos(pi.*(k/M)); % INITIAL CONDITION GIVEN BY f(x)=1+cos(pi.*x)
 end
 
 % APPROXIMATION
